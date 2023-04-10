@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to Blog!"
-author: 'Somebody'
-heading: 'Ctchy heading'
+name:  Welcome to Blog!
+author: Somebody
+heading: Catchy heading
 ---
 
 

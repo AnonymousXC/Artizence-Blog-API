@@ -1,8 +1,8 @@
 ---
 name:  Welcome to Blog!
-author : Somebody
+author: Somebody
 heading: Catchy heading
 ---
 
 # Hello World
-sadbasbbj
+Any content
